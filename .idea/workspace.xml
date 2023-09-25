@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a7cfebb-4ef5-4b7c-a1bc-81c2309eb562" name="Changes" comment="Exportação pelo Astah e primeiro esboço.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/NenhumVagaoNaComposicaoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pucrs/poo/entidades/ComposicaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pucrs/poo/entidades/LocomotivaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pucrs/poo/entidades/VagaoTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/FerroviaApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/FerroviaApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/FerroviaControlador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/FerroviaControlador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/Composicao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/Composicao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/Locomotiva.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/Locomotiva.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/LocomotivaAposVagaoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/LocomotivaAposVagaoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/LocomotivaEmOutraComposicaoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/LocomotivaEmOutraComposicaoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/MaximoDeVagoesExcedidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/MaximoDeVagoesExcedidoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/PesoMaximoExcedidoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/PesoMaximoExcedidoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/PrimeiraLocomotivaNaoPodeSerRemovidaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/PrimeiraLocomotivaNaoPodeSerRemovidaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/Vagao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/Vagao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/VagaoAposLocomotivaException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/VagaoAposLocomotivaException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/VagaoEmOutraComposicaoException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/entidades/VagaoEmOutraComposicaoException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/repositorios/GaragemLocomotivas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/repositorios/GaragemLocomotivas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/repositorios/GaragemVagoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/repositorios/GaragemVagoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/repositorios/IdentificadorNaoEncontradoExceptioin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/repositorios/IdentificadorNaoEncontradoExceptioin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pucrs/poo/repositorios/PatioComposicoes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pucrs/poo/repositorios/PatioComposicoes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pucrs/poo/AppTest.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2V5Q9OpqTemD6L3BASnA8BNHQQ2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pucrs.poo.entidades" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/pucrs/poo" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="pucrs.poo.entidades" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.FerroviaApp">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pucrs.poo.App" />
+      <module name="sct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pucrs.poo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FerroviaApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pucrs.poo.FerroviaApp" />
+      <module name="sct" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pucrs.poo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FerroviaApp" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a7cfebb-4ef5-4b7c-a1bc-81c2309eb562" name="Changes" comment="" />
+      <created>1694123311279</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1694123311279</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Exportação pelo Astah e primeiro esboço.">
+      <option name="closed" value="true" />
+      <created>1694130747597</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1694130747597</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Exportação pelo Astah e primeiro esboço." />
+    <option name="LAST_COMMIT_MESSAGE" value="Exportação pelo Astah e primeiro esboço." />
+  </component>
+</project>

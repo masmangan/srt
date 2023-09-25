@@ -1,4 +1,7 @@
 package pucrs.poo.entidades;
 
-public class VagaoEmOutraComposicaoException extends RuntimeException {
+/**
+ * @author marco.mangan@pucrs.br
+ */
+public class VagaoEmOutraComposicaoException extends Exception {
 }

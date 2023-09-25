@@ -1,4 +1,7 @@
 package pucrs.poo.entidades;
 
-public class LocomotivaEmOutraComposicaoException extends RuntimeException {
+/**
+ * @author marco.mangan@pucrs.br
+ */
+public class LocomotivaEmOutraComposicaoException extends Exception {
 }

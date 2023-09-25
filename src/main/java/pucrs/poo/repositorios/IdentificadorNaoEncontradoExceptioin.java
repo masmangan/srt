@@ -1,5 +1,8 @@
 package pucrs.poo.repositorios;
 
-public class IdentificadorNaoEncontradoExceptioin extends java.lang.RuntimeException {
+/**
+ * @author marco.mangan@pucrs.br
+ */
+public class IdentificadorNaoEncontradoExceptioin extends Exception {
 
 }

@@ -1,6 +1,8 @@
 package pucrs.poo.entidades;
 
-
-public class MaximoDeVagoesExcedidoException extends java.lang.RuntimeException {
+/**
+ * @author marco.mangan@pucrs.br
+ */
+public class MaximoDeVagoesExcedidoException extends Exception {
 
 }

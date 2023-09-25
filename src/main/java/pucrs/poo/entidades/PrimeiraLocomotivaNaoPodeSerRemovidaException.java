@@ -1,6 +1,8 @@
 package pucrs.poo.entidades;
 
-
-public class PrimeiraLocomotivaNaoPodeSerRemovidaException extends java.lang.RuntimeException {
+/**
+ * @author marco.mangan@pucrs.br
+ */
+public class PrimeiraLocomotivaNaoPodeSerRemovidaException extends Exception {
 
 }
